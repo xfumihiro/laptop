@@ -1,11 +1,12 @@
 Laptop
 ======
-
 Laptop is a script to set up an OS X laptop for web development.
 
 It can be run multiple times on the same machine safely.
 It installs, upgrades, or skips packages
 based on what is already installed on the machine.
+
+[![Build Status](https://travis-ci.org/xfumihiro/laptop.svg)](https://travis-ci.org/xfumihiro/laptop)
 
 Requirements
 ------------
